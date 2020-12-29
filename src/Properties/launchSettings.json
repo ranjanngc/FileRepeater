@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileRepeater": {
+      "commandName": "Project",
+      "commandLineArgs": "--sourcefile D:\\etc\\POImport\\FileRepeater\\source\\PVH_PO_RKPO.csv --destination D:\\etc\\POImport\\FileRepeater\\destination --repeat 1000 --replace T22PO-001 --with T23PO-00{0}"
+    }
+  }
+}
