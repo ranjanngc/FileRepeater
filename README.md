@@ -4,7 +4,7 @@ Small utility to copy a file as many time as you wish. Optionally you can replac
 ## Synopsis
 
 ```
-FilrRepeater 
+FileRepeater 
   --sourcefile [source file path]
   --destination [destination folder path]
   --repeat [Nuber of time file to be copied]
